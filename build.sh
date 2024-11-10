@@ -1,0 +1,1 @@
+docker build --build-arg API_TOKEN=$PLATE_RECOGNIZER_API_TOKEN -f filesender.Dockerfile -t filesender .

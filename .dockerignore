@@ -1,0 +1,8 @@
+/node_modules
+filesender.Dockerfile
+.dockerignore
+.env
+/build
+start.sh
+build.sh
+/test
